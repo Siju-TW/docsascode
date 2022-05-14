@@ -3,3 +3,5 @@ A program used to prevent, detect and remove computer virus. For more informatio
 ## Types of Anitvirus Software
 - Symantec
 - Norton
+- MacAfee
+- Bitdefender
