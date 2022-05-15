@@ -15,5 +15,5 @@ A program used to prevent, detect and remove computer virus. For more informatio
 - Bitdefender
 ## Developers
 {{%for item in site.data.developers%}}
-- {{item.name}}, {{item.year}}, {{item.EOS}}
+- {{item.name}},{{item.year}},{{item.EOS}}
 {{%endfor%}}
