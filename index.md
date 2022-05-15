@@ -1,6 +1,6 @@
 ---
 Date: 15 May
-layout: template.html
+layout: template
 ---
 
 
