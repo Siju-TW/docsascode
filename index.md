@@ -1,6 +1,6 @@
 ---
 Date: 15 May
-layout: template
+layout: template.html
 ---
 
 
@@ -13,3 +13,7 @@ A program used to prevent, detect and remove computer virus. For more informatio
 - Norton
 - MacAfee
 - Bitdefender
+## Developers
+{{%for item in site.data.developers%}}
+- {{item.name}}, {{item.year}}, {{item.EOS}}
+{{% endfor %}}
