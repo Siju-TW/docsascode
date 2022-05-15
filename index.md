@@ -13,6 +13,7 @@ A program used to prevent, detect and remove computer virus. For more informatio
 - Norton
 - MacAfee
 - Bitdefender
+
 ## Developers
 
 {% for item in site.data.developers %}
