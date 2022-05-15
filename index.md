@@ -1,5 +1,5 @@
 ---
-layout: boilerplate
+layout: template
 Date: 15 May
 ---
 
