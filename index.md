@@ -1,7 +1,5 @@
 ---
 Date: 15 May
-
-layout: boilerplate
 ---
 
 
