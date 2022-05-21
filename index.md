@@ -19,3 +19,9 @@ A program used to prevent, detect and remove computer virus. For more informatio
 {% for item in site.data.developers %}
 - {{item.name}},{{item.year}}
 {%endfor%}
+
+| Vendor | Year |
+| --- | --- |
+| MacAfee | 2022 |
+| Kaspersky | 2022 |
+| Bitdefender | 2022 |
