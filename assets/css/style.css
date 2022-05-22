@@ -1,8 +1,29 @@
 body {
 	font-family: Palatino Linotype;
+	color: green;
 	line-height: 200%;
 	letter-spacing: 3px;
 }
 h1 {
-	color: #880e4f;
+	font-size: 30px;
+	font-family: Palatino Linotype;
+	letter-spacing: 2px;
+	color: #005662;
+}
+h2 {
+	font-size: 25px;
+	font-family: Palatino Linotype;
+	letter-spacing: 2px;
+	color: #005662;
+}
+h3 {
+	font-size: 25px;
+	font-family: Palatino Linotype;
+	letter-spacing: 2px;
+	color: #005662;
+}
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }

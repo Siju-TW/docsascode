@@ -1,27 +1,10 @@
 ---
 layout: template
-Date: 15 May
 ---
 
-
-# Antivirus
-Updated on {{page.Date}}
-
-A program used to prevent, detect and remove computer virus. For more information, see [Antivirus](https://en.wikipedia.org/wiki/Antivirus_software)
-## Types of Anitvirus Software
-- Symantec
-- Norton
-- MacAfee
-- Bitdefender
-
-## Developers
-
-{% for item in site.data.developers %}
-- {{item.name}},{{item.year}}
-{%endfor%}
-
-| Vendor | Year |
-| --- | --- |
-| MacAfee | 2022 |
-| Kaspersky | 2022 |
-| Bitdefender | 2022 |
+# Antivirus Documentation
+Learn more about Antivirus by clicking any of the link below:
+- Antivirus
+- Types of Antivirus
+- Graphical Representation
+- Alternative Solutions
