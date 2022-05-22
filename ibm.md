@@ -26,7 +26,7 @@ IAM access groups provide a way for you to quickly and easily assign access to m
 	<ol type="a">
 	<li>Click **Access policies** > **Assign access**.</li>
 	<li>Select the type of access to assign:</li>
-		<ul>
+		<ul style="list-style-type:disc;">
 		<li> **IAM services**: Assigns access to IAM-enabled services, which are services that are managed by using IAM access control and assigned to a resource group.</li>
 		<li> **Account management services**: Assigns access to manage platform services, such as billing, license and entitlements, and enterprises.</li>
 		</ul>
