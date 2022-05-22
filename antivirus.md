@@ -8,7 +8,6 @@ Antivirus software was originally developed to detect and remove computer viruse
 
 # Retated Topic
 - [Types of Antivirus](typesofantivirus.md)
-- [Graphical Representation](insertingimage.md)
 - [Alternative Solutions](prevention.md)
 - [IBM](ibm.md)
 - [Titanic Probability](titanic.md)

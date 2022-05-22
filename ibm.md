@@ -43,6 +43,5 @@ You can use the Support Center to get help with any issues that you might encoun
 
 ## Related Topics
 - [Antivirus](antivirus.md)
-- [Graphical Representation](insertingimage.md)
 - [Alternative Solutions](prevention.md)
 - [Titanic Probability](titanic.md)

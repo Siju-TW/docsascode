@@ -8,5 +8,4 @@ layout: template
 # Related Topics
 - [Antivirus](antivirus.md)
 - [Alternative Solutions](prevention.md)
-- [Graphical Representation](insertingimage.md)
 - [IBM](ibm.md)
