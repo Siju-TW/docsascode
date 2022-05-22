@@ -11,7 +11,6 @@ Cloud antivirus is a technology that uses lightweight agent software on the prot
 Some antivirus vendors maintain websites with free online scanning capability of the entire computer, critical areas only, local disks, folders or files. Periodic online scanning is a good idea for those that run antivirus applications on their computers because those applications are frequently slow to catch threats. One of the first things that malicious software does in an attack is disable any existing antivirus software and sometimes the only way to know of an attack is by turning to an online resource that is not installed on the infected computer.
 ## Related Topics
 - [Antivirus](antivirus.md)
-- [Types of Antivirus](typesofantivirus.md)
 - [Graphical Representation](insertingimage.md)
 - [IBM](ibm.md)
 - [Titanic Probability](titanic.md)

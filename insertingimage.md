@@ -5,7 +5,6 @@ The following shows a graphical representation of Antivirus
 
 # Related Topics
 - [Antivirus](antivirus.md)
-- [Types of Antivirus](typesofantivirus.md)
 - [Alternative Solutions](prevention.md)
 - [IBM](ibm.md)
 - [Titanic Probability](titanic.md)
