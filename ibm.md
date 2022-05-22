@@ -18,20 +18,20 @@ IAM access groups provide a way for you to quickly and easily assign access to m
 
 1.	Create an access group.
 	<ol type="a">
-	<li>Go to **Manage** > **Access (IAM)** > **Access Groups** in the IBM Cloud console.</li>
-	<li>Click **Create**.</li>
-	<li>Enter a name for your group, and click **Create**. For example, if you know multiple users in your account need to be able to apply subscription codes, track usage, or perform other billed-related tasks, you might name your group **Billing-Editor-Access**.</li>
+	<li>Go to <b>Manage</b> > <b>Access (IAM)</b> > <b>Access Groups</b> in the IBM Cloud console.</li>
+	<li>Click <b>Create</b>.</li>
+	<li>Enter a name for your group, and click <b>Create</b>. For example, if you know multiple users in your account need to be able to apply subscription codes, track usage, or perform other billed-related tasks, you might name your group <span style="border: 1px grey">Billing-Editor-Access</span>.</li>
 	</ol>
 1.  Assign access to the group.
 	<ol type="a">
-	<li>Click **Access policies** > **Assign access**.</li>
+	<li>Click <b>Access policies</b> > <b>Assign access</b>.</li>
 	<li>Select the type of access to assign:</li>
 		<ul style="list-style-type:disc;">
 		<li> <b>IAM services</b>: Assigns access to IAM-enabled services, which are services that are managed by using IAM access control and assigned to a resource group.</li>
 		<li> <b>Account management services</b>: Assigns access to manage platform services, such as billing, license and entitlements, and enterprises.</li>
 		</ul>
 	<li>Select all roles that apply.</li>
-	<li>Click **Add** > **Assign**.</li>
+	<li>Click <b>Add</b> > <b>Assign</b>.</li>
 	</ol>
 See [What makes a good access group strategy?](https://cloud.ibm.com/docs/account?topic=account-account_setup#resource-group-strategy) for details about how to best set-up your access groups.
 
