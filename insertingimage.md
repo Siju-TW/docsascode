@@ -1,3 +1,7 @@
+---
+layout: template
+---
+
 # Inserting an Image
 The following shows a graphical representation of Antivirus
 
