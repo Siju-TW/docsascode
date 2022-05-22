@@ -1,6 +1,7 @@
 ---
 layout: template
 ---
+
 # Types of Antivirus
 The following are the different types of antivirus:
 - Symantec
@@ -9,7 +10,7 @@ The following are the different types of antivirus:
 - Bitdefender
 
 # Related Topics
-1  Antivirus
-1  Graphical Representation
-1  Alternative Solutions
+1.  Antivirus
+1.  Graphical Representation
+1.  Alternative Solutions
 
