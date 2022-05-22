@@ -40,6 +40,7 @@ You can use the Support Center to get help with any issues that you might encoun
 - The Help just for you section features links to common tasks, troubleshooting, and FAQs specific to the resources in your account.
 - The Featured FAQs section provides FAQs related to platform tasks, for example, resetting your password, IAM, and upgrading your account.
 - The Contact support section provides the options for getting in touch with a support representative: start a live chat, contact by phone, or create a support case.
+
 # Related Topics
 - [Antivirus](antivirus.md)
 - [Types of Antivirus](typesofantivirus.md)
