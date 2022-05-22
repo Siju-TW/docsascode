@@ -1,7 +1,9 @@
 ---
 layout: template
 ---
+
 # Setting up your IBM Cloud account
+
 ## Step 5: Set preferences for receiving notifications
 Complete the following steps to set your preferences for receiving various types of notifications:
 1.  To receive notifications about IBM Cloud platform-related, or resource-related items, go to the **Avatar** icon ![avatar](D:\Docs as Code\docsascode\images\avatar)  **Profile** > **Notification preferences**.
