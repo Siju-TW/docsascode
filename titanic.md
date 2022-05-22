@@ -3,7 +3,7 @@ layout: template
 ---
 # Titanic Probability
 {% for item in site.data.titanic %}
-- {{item.name}}, {{item.age}}
+- {{item.Name}}, {{item.Age}}
 {% endfor %}
 # Related Topics
 - [Antivirus](antivirus.md)
