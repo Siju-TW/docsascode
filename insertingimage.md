@@ -4,6 +4,8 @@ The following shows a graphical representation of Antivirus
 ![antivirus](/images/antivirus.PNG)
 
 # Related Topics
-1  Anitvirus
-1  Types of Anitvirus
-1  Alternative Solutions
+- [Antivirus](antivirus.md)
+- [Types of Antivirus](typesofantivirus.md)
+- [Alternative Solutions](prevention.md)
+- [IBM](ibm.md)
+- [Titanic Probability](titanic.md)
