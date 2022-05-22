@@ -10,7 +10,9 @@ The following are the different types of antivirus:
 - Bitdefender
 
 # Related Topics
-1.  Antivirus
-1.  Graphical Representation
-1.  Alternative Solutions
+- [Antivirus](antivirus.md)
+- [Graphical Representation](insertingimage.md)
+- [Alternative Solutions](prevention.md)
+- [IBM](ibm.md)
+- [Titanic Probability](titanic.md)
 
